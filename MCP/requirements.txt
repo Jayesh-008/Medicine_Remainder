@@ -1,0 +1,3 @@
+plyer
+dotenv
+requests
